@@ -51,3 +51,8 @@ python-keylogger-edu/
 - Managing `.gitignore` to keep unnecessary files out of the repository
 - Uploading and maintaining a GitHub project for public portfolio use
 - Understanding the importance of ethical boundaries in cybersecurity
+  
+## 💡 Why I Built This
+
+As an aspiring cybersecurity student, I wanted to start by building a small but impactful project. This keylogger was developed in a controlled virtual environment to better understand how input logging works — and how to defend against it. This project also helped me explore ethical boundaries in cybersecurity.
+
