@@ -56,3 +56,12 @@ python-keylogger-edu/
 
 As an aspiring cybersecurity student, I wanted to start by building a small but impactful project. This keylogger was developed in a controlled virtual environment to better understand how input logging works — and how to defend against it. This project also helped me explore ethical boundaries in cybersecurity.
 
+## 📸 Demo
+
+Screenshot of the keylogger running in Kali Linux:
+
+![Logger Running](Screenshot%202025-07-09%20225846.png)
+
+Log output from keylogger:
+
+![Log Output](Screenshot%202025-07-09%20225939.png)
