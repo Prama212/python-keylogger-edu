@@ -1,5 +1,3 @@
-# python-keylogger-edu
-A simple Python keylogger built for educational and ethical hacking practice only.
 # 🛡️ python-keylogger-edu
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
