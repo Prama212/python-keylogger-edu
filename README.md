@@ -23,7 +23,7 @@ A simple Python keylogger built for educational and ethical hacking practice onl
 - Python 3
 - `pynput` module
 
-### 📥 Installation
+### 🔧 Installation
 
 ```bash
 git clone https://github.com/Prama212/python-keylogger-edu.git
@@ -32,4 +32,13 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python keylogger.py
+```
+## 📁 File Structure
 
+```text
+python-keylogger-edu/
+├── keylogger.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
