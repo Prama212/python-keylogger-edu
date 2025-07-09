@@ -65,3 +65,10 @@ Screenshot of the keylogger running in Kali Linux:
 Log output from keylogger:
 
 ![Log Output](Screenshot%202025-07-09%20225939.png)
+
+## 📬 Contact
+
+If you're reviewing this project for a scholarship or collaboration, feel free to reach out via:
+
+- GitHub: [@Prama212](https://github.com/Prama212)
+- Email: pramapradipta08@gmail.com
