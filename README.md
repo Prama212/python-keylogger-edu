@@ -40,3 +40,14 @@ python-keylogger-edu/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
+
+## 🧠 What I Learned
+
+- How to build a basic keylogger in Python using the `pynput` library
+- Working with virtual environments (`venv`) in Kali Linux
+- Using system-wide key listeners and logging user input securely
+- Writing clean and organized code with proper documentation
+- Managing `.gitignore` to keep unnecessary files out of the repository
+- Uploading and maintaining a GitHub project for public portfolio use
+- Understanding the importance of ethical boundaries in cybersecurity
