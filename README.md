@@ -33,12 +33,3 @@ source venv/bin/activate
 pip install -r requirements.txt
 python keylogger.py
 
-🧠 What I Learned
-Python keyboard hooks using pynput
-
-Logging keystrokes safely in a VM
-
-Ethical hacking with responsible disclosure
-
-Git/GitHub usage for open-source project
-
